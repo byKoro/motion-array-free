@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "cmd /c python ""D:\Usuario\Scripts\Download Motion Array\app.py""", 0, False
